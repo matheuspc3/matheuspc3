@@ -1,9 +1,10 @@
 
 # 💫 About Me:
 
-🔭 Sou um estudante de Ciência da Computação no Centro Federal de Educação Tecnológica do Rio de Janeiro (CEFET/RJ), com previsão de formatura em julho de 2025. 
-<br><br>
-🌱Tenho um interesse especial em machine learning e programação, e estou sempre buscando novas maneiras de aplicar essas tecnologias para resolver problemas do mundo real.
+
+🔭 I am a Computer Science student at the Federal Center for Technological Education of Rio de Janeiro (CEFET/RJ), expecting to graduate in July 2025.
+
+🌱 I have a special interest in Machine Learning and programming, constantly exploring new ways to apply these technologies to solve real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuspc3/) 
