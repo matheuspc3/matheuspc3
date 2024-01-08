@@ -7,7 +7,7 @@
 🌱 I have a special interest in Machine Learning and programming, constantly exploring new ways to apply these technologies to solve real-world problems.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuspc3/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuspc3/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@matheuspereira_94841) 
 
 # 💻 Tech Stack:
